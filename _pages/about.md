@@ -24,3 +24,7 @@ My leisure time
 I watch football, baseball, formula 1, and a little bit of other sports (fencing for example). I have been a fan of the football club *Borussia Möchengladbach* since 2013 (but that's not the reason I came to Aachen for PhD!). Some of my favorite players include *Yann Sommer* (Inter Milan), *Granit Xhaka* (Leverkusen), *Jonas Hofmann* (Möchengladbach), *Ko Itakura* (Möchengladbach), *Lei Wu* (Shanghai Port), *Shohei Ohtani* (Los Angeles Angels), and *Guanyu Zhou* (Alfa Romeo F1).  
 
 I enjoy J-POP and K-POP music, and I'm a fan of the Japanese idol group AKB48. More information can be found on my [personal page](https://ifeimi.github.io/){:target="_blank"}.  
+
+Acknowledgement
+------
+My profile photo (bird flying in pink-blue sky) is a gift from my special friend Chuchu. The image of bird came from part of my name which has the meaning "flying" in Chinese. Surrounding of the bird is decorated by the elegant [*Fermi's golden rule*](https://en.wikipedia.org/wiki/Fermi%27s_golden_rule){:target="_blank"}. Not many scientific concepts get to call themselves "golden"! 
