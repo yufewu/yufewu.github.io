@@ -10,7 +10,7 @@ My name
 ------
 Written in the International Phonetic Alphabet (IPA), my name Yufei Wu shall be pronunced as [yfeiwu]. The only thing to notice is the "yu" in "Yufei", which is pronunced as the close front rounded vowel [y], same as the letter "ü" in German or "u" in French.  
 
-My first name in Chinese has the meaning of "spaceship". My parents gave me this name when they saw the successful lauch of China's first prototype of manned spacecraft "Shenzhou 1" on Nov. 19th 1999, shortly after my birth. Witnessing the fast developing of China's space exploration (now with the space station "Tiangong", sample return from the Moon "Chang'e", and Mars exploration "Tianwen"), I have well carried on my parents' wish to embrace challenges and explore the unknown since then.  
+My first name in Chinese has the meaning of "spaceship". My parents gave me this name when they saw the successful lauch of China's first prototype of manned spacecraft "Shenzhou 1" on Nov. 20th 1999, shortly after my birth. Witnessing the fast developing of China's space exploration (now with the space station "Tiangong", sample return from the Moon "Chang'e", and Mars exploration "Tianwen"), I have well carried my parents' wish on to embrace challenges and explore the unknown since then.  
 
 My home
 ------
