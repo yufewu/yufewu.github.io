@@ -4,6 +4,7 @@ source "https://rubygems.org"
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
+#     cd Documents/GitHub/yufewu.github.io
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
@@ -25,3 +26,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.8"
