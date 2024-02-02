@@ -29,7 +29,7 @@ redirect_from:
 * Solid-state magic angle spinning NMR, dynamic nuclear polarization, EPR
 * Chromatography, optical spectroscopy, electron microscopy
 * TopSpin, MestReNova, Matlab, Mathematica, QuantumEspresso
-* Linux, Python, C, HTML, git
+* Linux, Python, C, HTML
 
 <!-- Publications
 ======
