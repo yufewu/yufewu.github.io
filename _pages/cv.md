@@ -32,9 +32,9 @@ redirect_from:
 
 
 ## Publications
-1. M. Durai, **Y.Wu**, J. Johny, W. Hetaba, T. Wiegand, W. Leitner, A. Bordet. **Chem. Sci.** *One-pot synthesis of E-chalcones using a multifunctional catalyst comprised of ruthenium nanoparticles and palladium N-heterocyclic carbene complexes immobilized on silica*. DOI: 10.1039/D4SC07773C. 
-2. G. Jeschke, N. Wili, **Y. Wu**, S. Kuzin, H. Karas, H. Hintz, A. Godt. **Magn. Reson.**  *Electron-spin decoherence in trityl radicals in the absence and presence of microwave irradiation.* DOI:10.5194/mr-6-15-2025(2025).
-3. V. Timoshev, L. A. Haufe, M. Seifert, O. Busse, **Y. Wu**, T. Wiegand, J. J. Weigand. **Ind. Eng. Chem. Res.** *Enhancing Hydrothermal Stability of ZSM-5 Cracking Additives with Aluminum Phosphates.* DOI: 10.1021/acs.iecr.4c01852(2024). 
+1. M. Durai, **Y.Wu**, J. Johny, W. Hetaba, T. Wiegand, W. Leitner, A. Bordet. **Chem. Sci.** *One-pot synthesis of E-chalcones using a multifunctional catalyst comprised of ruthenium nanoparticles and palladium N-heterocyclic carbene complexes immobilized on silica*. DOI: 10.1039/D4SC07773C (2025). 
+2. G. Jeschke, N. Wili, **Y. Wu**, S. Kuzin, H. Karas, H. Hintz, A. Godt. **Magn. Reson.**  *Electron-spin decoherence in trityl radicals in the absence and presence of microwave irradiation.* DOI:10.5194/mr-6-15-2025 (2025).
+3. V. Timoshev, L. A. Haufe, M. Seifert, O. Busse, **Y. Wu**, T. Wiegand, J. J. Weigand. **Ind. Eng. Chem. Res.** *Enhancing Hydrothermal Stability of ZSM-5 Cracking Additives with Aluminum Phosphates.* DOI: 10.1021/acs.iecr.4c01852 (2024). 
 
 
 
