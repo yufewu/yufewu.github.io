@@ -43,6 +43,7 @@ redirect_from:
 * Oral presentation, Fuel Science International Conference, 2025.06.03-05, Aachen Germany. 
 * Poster, FGMR, 2024.09.09-12, Rostock Germany
 * Poster, Fuel Science International Conference, 2024.06.11-13, Aachen, Germany
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
