@@ -8,7 +8,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* 2023.11 - 2027 &emsp;&emsp;&ensp;&nbsp; Ph.D., RWTH Aachen University, Germany
+* 2023.11 - 2027 &emsp;&emsp;&ensp;&nbsp; Doctorate degree, RWTH Aachen University, Germany
 * 2021.09 - 2023.09 &emsp; M.Sc., École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 * 2017.09 - 2021.07 &emsp; B.Sc., Peking University, China
 
@@ -26,11 +26,23 @@ redirect_from:
   * Supervisor: [Prof. Dr. Lyndon Emsley](https://www.epfl.ch/labs/lrm/){:target="_blank"}
   
 ## Skills
-* Solid-state magic angle spinning NMR, dynamic nuclear polarization, EPR
-* Chromatography, optical spectroscopy, electron microscopy
-* TopSpin, MestReNova, Matlab, Mathematica, QuantumEspresso
+* Solid-state NMR, dynamic nuclear polarization, EPR
+* TopSpin, ssNake, Matlab, Mathematica, Orca, GROMACS
 * Linux, Python, C, HTML
 
+
+## Publications
+1. M. Durai, **Y.Wu**, J. Johny, W. Hetaba, T. Wiegand, W. Leitner, A. Bordet. **Chem. Sci.** *One-pot synthesis of E-chalcones using a multifunctional catalyst comprised of ruthenium nanoparticles and palladium N-heterocyclic carbene complexes immobilized on silica*. DOI: 10.1039/D4SC07773C. 
+2. G. Jeschke, N. Wili, **Y. Wu**, S. Kuzin, H. Karas, H. Hintz, A. Godt. **Magn. Reson.**  *Electron-spin decoherence in trityl radicals in the absence and presence of microwave irradiation.* DOI:10.5194/mr-6-15-2025(2025).
+3. V. Timoshev, L. A. Haufe, M. Seifert, O. Busse, **Y. Wu**, T. Wiegand, J. J. Weigand. **Ind. Eng. Chem. Res.** *Enhancing Hydrothermal Stability of ZSM-5 Cracking Additives with Aluminum Phosphates.* DOI: 10.1021/acs.iecr.4c01852(2024). 
+
+
+
+## Conference participations
+* Poster & flash talk, EUROMAR, 2025.07.06-10, Oulu Finnland. 
+* Oral presentation, Fuel Science International Conference, 2025.06.03-05, Aachen Germany. 
+* Poster, FGMR, 2024.09.09-12, Rostock Germany
+* Poster, Fuel Science International Conference, 2024.06.11-13, Aachen, Germany
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
